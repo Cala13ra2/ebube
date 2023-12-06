@@ -1,0 +1,33 @@
+section .head {
+  font-size: 64px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+section button {
+  padding: 10px 50px;
+  border-radius: 20px;
+  border: 0.3px solid rgb(115, 115, 203);
+  background-color: white;
+  margin: 5px;
+}
+section h2 {
+  font: size 31px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+section .create {
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  border: 0px;
+  background-color: rgb(117, 186, 198);
+}
+section p span {
+  color: aqua;
+}
+section .signin {
+  color: aqua;
+  margin: 20px;
+}
+
+.test p {
+  text-align: center;
+}
